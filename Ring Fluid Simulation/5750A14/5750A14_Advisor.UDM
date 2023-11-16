@@ -1,0 +1,52 @@
+<HTML>
+<HEAD>
+<font face = 'Arial'>
+<font size = '1.5'>
+</HEAD>
+<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br> ** Solid FLOW_B Report/Record File **
+
+<BR>&nbsp;
+<br> Date/time : Wed Nov 15 21:58:18 2023
+<br> File path : C:\Users\akarandikar\Documents\GitHub\screwdriver-ring\Ring Fluid Simulation\5750A14\5750A14_Advisor
+<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+<br>
+# FLOW ANALYSIS #
+<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+
+    Setting up boundary condition on gate ID = 1
+<br>
+<br>
+# FLOW ANALYSIS #
+<br>
+<br>
+   Fill time at 20 ms, part is 0 % filled, flow-rate is 0.168419 (cc/s),  Average Speed = 7.752881 (mm/s),  Pressure = 0.040033 (MPa)<br>
+<br>
+   Fill time at 250 ms, part is 5 % filled, flow-rate is 1.267356 (cc/s),  Average Speed = 29.768772 (mm/s),  Pressure = 0.061766 (MPa)<br>
+<br>
+   Fill time at 320 ms, part is 7 % filled, flow-rate is 1.267356 (cc/s),  Average Speed = 34.337063 (mm/s),  Pressure = 0.071078 (MPa)<br>
+<br>
+   Fill time at 390 ms, part is 8 % filled, flow-rate is 1.267356 (cc/s),  Average Speed = 39.415422 (mm/s),  Pressure = 0.081171 (MPa)<br>
+<br>
+   Fill time at 1570 ms, part is 35 % filled, flow-rate is 1.267356 (cc/s),  Average Speed = 8.665796 (mm/s),  Pressure = 0.314952 (MPa)<br>
+<br>
+   Fill time at 2000 ms, part is 45 % filled, flow-rate is 1.267356 (cc/s),  Average Speed = 39.377286 (mm/s),  Pressure = 0.324252 (MPa)<br>
+<br>
+   Fill time at 2130 ms, part is 48 % filled, flow-rate is 1.267356 (cc/s),  Average Speed = 34.270279 (mm/s),  Pressure = 0.330016 (MPa)<br>
+<br>
+   Fill time at 4040 ms, part is 92 % filled, flow-rate is 1.267356 (cc/s),  Average Speed = 26.992896 (mm/s),  Pressure = 0.867057 (MPa)<br>
+<br>
+   Fill time at 4367 ms, part is 100 % filled, flow-rate is 0.181051 (cc/s),  Average Speed = 93.568911 (mm/s),  Pressure = 1.413067 (MPa)<br>
+<br>
+
+    Analysis completed.
+    Injection Pressure = 1.413067 (MPa), this part is 100% filled.
+<br>
+<br> Report File - C:\Users\akarandikar\Documents\GitHub\screwdriver-ring\Ring Fluid Simulation\5750A14\5750A14_Advisor.UDM
+<br>_______________________________________________________________________________
+
+<br>###  Shell FLOW_B Analysis has Completed   ###
+</font>
+</HTML>
