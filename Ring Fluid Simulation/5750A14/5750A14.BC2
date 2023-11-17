@@ -1,0 +1,39 @@
+[Node_Elem_Info]
+5035
+10070
+[EOF]
+
+[Gate_Info]
+4052     2  0.20     0.00     100.00   100.00   100.00   0.00     0.00     ()
+[EOF]
+
+[Valve_Gate_Info]
+0
+[EOF]
+
+[Valve_Gate_Info_2_Ver1]
+0
+[EOF]
+
+[Gate_Flow_Rate_Info]
+0
+[EOF]
+
+[Mold_Wall_Info]
+0
+[EOF]
+
+[Mold_Wall_Info_2]
+0
+[EOF]
+
+[ClampForce_Info]
+1 0.000000 1.000000 0.000000
+0
+[EOF]
+
+[ClampForce_Info_2]
+0 0 1 0 0.000000 1.000000 0.000000
+0
+[EOF]
+

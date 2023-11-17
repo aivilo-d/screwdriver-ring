@@ -1,0 +1,378 @@
+<HTML>
+<HEAD>
+<font face= 'Arial'> 
+<font size= '1.5'> 
+</HEAD>
+<br>
+ @@ Software Released Time: FLOW-PACK/B-Style  2023/5/19  0:7:48 @@
+
+<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br> ** Shell FLOW-PACK Report/Record File **
+
+<BR>&nbsp;
+<br> Date/time : 2023/11/15  22:23:44
+<br> File path : C:\Users\akarandikar\Documents\GitHub\screwdriver-ring\Ring Fluid Simulation\5750A14\5750A14
+<br> Software type : x64
+<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+# FLOW ANALYSIS #
+<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>  Dassault Systemes Injection Molding Simulation     
+<br>                                                                             
+<br>                        Copyright (C) 1995 ~ 2023							
+<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br>
+ * System machine information :  Number of Processor= 12
+<br> # Maximum number of treads of the run-time system=  12
+
+<br> # Number of processor available of running process=  12
+
+<br>
+* FLOW-PACK Analysis ...
+<br>
+ >>>>> Engineer Version - Shell Style Analysis <<<<< 
+<br>
+ @@@   Shell FLOW-PACK Analysis V2023   @@@    
+<br>
+ >>>>> Xplorer Version - Shell Style Analysis <<<<< 
+<br>
+<b>
+<br>
+ # Solver parameter information ......   
+</b>
+<br>
+
+
+<br>
+      41001 000 (*)Quick-Fill Calculation
+      = 1.00e+00 
+<br>
+      41101 000 Solver Type(1: AMG,  2: PCG-AMG)
+      = 1.00e+00 
+<br>
+      41002 000 (*)Pressure/flow-rate relative error tolerance(1.E-4 ~ 1.E-2)
+      = 5.00e-03 
+<br>
+      41003 000 (*)Melt-temp. error tolerance(0.01 ~ 1.)
+      = 1.00e-01  (3.22e+01 oF)
+<br>
+      41004 000 (*)Pressure/flow-rate iteration relaxation factor(0.1 ~ 0.5)
+      = 4.00e-01 
+<br>
+      41005 000 (*)Melt-temp. iteration relaxation factor(0.5 ~ 1.)
+      = 1.00e+00 
+<br>
+      41006 000 (*)Max. No. of non-linear iterations(40 ~ 100)
+      = 4.00e+01 
+<br>
+      41007 000 (*)No. of thickness layers (10 ~ 16)
+      = 1.50e+01 
+<br>
+      41008 000 Short shot (Factor of initial flow rate)
+      = 1.00e-02  (3.38e-04 Ounces/sec)
+<br>
+      41009 000 (#)Pressure/Velocity residual error criteria(1.E-4 ~ 1.E-2)
+      = 1.00e-03 
+<br>
+      41011 000 (#)Velocity field relaxation factor(0.1 ~ 1.0)
+      = 8.00e-01 
+<br>
+      41012 000 (#)Pressure correction relaxation factor(0.05 ~0.8)
+      = 2.00e-01 
+<br>
+      41013 000 (#)P/V field Max. iter. No.(40 ~ 100)
+      = 8.00e+01 
+<br>
+      41014 000 (#)Time acceleration factor during filling process(0.1 ~ 10.)
+      = 2.00e+00 
+<br>
+      41015 000 (#)Cell volume filled index during filling process(0.25 ~ 1.0)
+      = 7.50e-01 
+<br>
+      41016 000 (#)Fiber calculation acceleration factor (1 ~ 5)
+      = 2.00e+00 
+<br>
+      41017 000 (#)Finite volume solver(1: Coupled, 2: Segregated)
+      = 2.00e+00 
+<br>
+      41018 000 (#)Mold temperature profile from COOL(1: Cycle Average, 2: Transient)
+      = 2.00e+00 
+<br>
+      41019 000 (#)Volume of Fluid (VoF) Algorithm(1: Direct, 2: Indirect, 3: CICSAM)
+      = 3.00e+00 
+<br>
+      41021 000 (#)Fiber Interaction Coefficient(0.0001 ~ 0.01.)
+      = 1.00e-03 
+<br>
+      41022 000 Weld line face angle(90 ~ 150.)
+      = 1.50e+02 
+<br>
+      41023 000 Local profile resolution[X-Y Plot](1 ~ 3)
+      = 1.00e+00 
+<br>
+<b>
+<br>
+ # Process information ......       
+</b>
+<br>
+
+<br>
+      31001 101 Filling Time
+      = 4.18e+00 
+<br>
+      31002 202 Main Material Melt Temperature
+      = 2.30e+02  (4.46e+02 oF)
+<br>
+      31003 202 Mold Wall Temperature
+      = 5.00e+01  (1.22e+02 oF)
+<br>
+      31004 203 Injection Pressure Limit
+      = 6.20e+01  (8.99e+03 psi)
+<br>
+      31005 206 Flow Rate Limit
+      = 4.00e+02  (1.35e+01 Ounces/sec)
+<br>
+      31006 001 Fill/Pack Switch Point (% Filled Volume)
+      = 1.00e+02 
+<br>
+      31007 000 Post-filling (1: Yes, 0: No)
+      = 0.00e+00 
+<br>
+      31008 101 Pressure Holding Time
+      = 6.94e+00 
+<br>
+      31009 101 Total Time in Pack Stage
+      = 4.18e+01 
+<br>
+      31010 000 Residual Stress Calculation (1: Yes, 0: No)
+      = 1.00e+00 
+<br>
+      31011 000 Fiber Orientation Calculation (1: Yes, 0: No)
+      = 0.00e+00 
+<br>
+      31012 000 Fiber % by Weight or Volume (1: Weight, 2: Volume)
+      = 1.00e+00 
+<br>
+      31013 001 Fiber % (from 0 to 100)
+      = 0.00e+00 
+<br>
+      31014 000 Co-Injection (1: Yes, 0: No)
+      = 0.00e+00 
+<br>
+      31015 202 2nd Material Melt Temperature
+      = 2.30e+02  (4.46e+02 oF)
+<br>
+      31016 000 Reactive Control Type (1: Conversion, 2: Time)
+      = 1.00e+00 
+<br>
+      31017 001 Reactive Eject Conversion (x: 0 ~ 100, for Type "1")
+      = 8.00e+01 
+<br>
+      31019 000 Multi general Gate Flow-rate/Press control (0: Equivalent, 1: Automatic)
+      = 1.00e+00 
+<br>
+      31018 000 Gravity Downward Direction(+/-(X,Y,Z): +/-(1,2,3))
+      = -2.00e+00 
+<br>
+      31023 000 Injection Domain
+      = 0.00e+00 
+<br>
+      31024 000 Injection System
+      = 0.00e+00 
+<br>
+      31025 000 Viscoelastic Birefringence Calculation (1: Yes, 0: No)
+      = 0.00e+00 <br>
+      31027 000 Auto Filling Time (1: Yes, 0: No)
+      = 1.00e+00 <br>
+      31028 000 Auto Packing Time (1: Yes, 0: No)
+      = 1.00e+00 <br>
+      31033 000 Venting Analysis (1: Yes, 0: No)
+      = 0.00e+00 <br>
+      31034 203 Cavity Initial Air Pressure
+      = 1.01e-01 <br>
+      31035 202 Cavity Initial Air Temperature
+      = 3.00e+01 <br>
+      31036 000 Gold Wire Analysis(1: Yes, 0: No)
+      = 0.00e+00 <br>
+      31037 000 Mold-Melt Heat Transfer Coefficient  (1: Yes, 0: No)
+      = 0.00e+00  (necessary)
+<br>
+      31038 212 Mold-Melt Heat Transfer Coefficient : Filling stage
+      = 2.50e+03  (necessary)
+<br>
+      31039 212 Mold-Melt Heat Transfer Coefficient : Packing stage
+      = 2.50e+03  (necessary)
+<br>
+      31040 212 Mold-Melt Heat Transfer Coefficient : Detached stage(P=0)
+      = 2.50e+03  (necessary)
+<br>
+      31041 000 MicroCellular Calculation (1: Yes, 0: No)
+      = 0.00e+00 <br>
+      31042 000 MicroCellular Material (1: N2 SCF, 2: CO2 SCF)
+      = 1.00e+00 <br>
+      31043 001 MicroCellular Foaming Switch Point (% Filled Volume)
+      = 9.70e+01 <br>
+      31044 001 MicroCellular SCF (Supercritical Fluid) Concentration Weight % (g-SCF/g-Resin)
+      = 5.00e-01 <br>
+      31045 000 Crystallization Calculation (1: Yes, 0: No)
+      = 0.00e+00 
+<br>
+      31046 000 Temperature Criteria for Short Shots (1: Yes, 0: No)
+      = 1.00e+00 
+<br>
+      31047 202 Temperature Criteria for Short Shots
+      = 1.00e+02 <br>
+      31048 204 Clamp Force Limit
+      = 1.00e+02 
+<br>
+      31049 000 Suspension Particle Concentration Calculation (1: Yes, 0: No)
+      = 0.00e+00 <br>
+      31050 203 2nd Material Injection Pressure Limit
+      = 1.00e+02 <br>
+      31051 206 2nd Material Injection Flow Rate Limit
+      = 1.94e+02 <br>
+      31052 001 2nd Material Fill/Pack Switch Point (% Filled Volume)
+      = 1.00e+02 <br>
+      31053 101 2nd Material Pressure Holding Time
+      = 1.00e+01 <br>
+      31054 101 2nd Material Total Time in Pack Stage
+      = 2.00e+01 <br>
+      31055 001 Initial Conversion (x: 0 ~ 100, for Type "1")
+      = 0.00e+00 <br>
+<br>   /*===============================================================
+<br>    *	Flow-rate control type
+<br>    *	0: None (Pressure control will be used)
+<br>    *	1: abs. profile using max. mach. injection rate
+<br>    *		(X: % filled volume, Y: % of max. injection flow rate)
+<br>    *	2: rel. profile using specified filling time
+<br>    *		(X: % of filling time, Y: % of rel. flow rate)
+<br>    *(A). No. of profile points for screw speed control
+<br>    *(B). profile data for % volume or time
+<br>    *(C). profile data for % flow rate
+<br>    *==============================================================*/
+<br>     2  100.00
+<br>     A    6
+<br>     B    0.00   20.00   40.00   60.00   80.00  100.00
+<br>     C   20.00   20.00   20.00   20.00   20.00   20.00
+
+<br>
+<br>   /*===============================================================
+<br>    *	Pressure control type
+<br>    *	1: abs. profile to max. machine P
+<br>    *		(X: % of packing time, Y: % of max. machine pressure)
+<br>    *	2: relative profile to entrance P(F/P swich pt.)
+<br>    *		(X: % of packing time, Y: % of entrance pressure)
+<br>    *(A). No. of profile points for P control
+<br>    *(B). profile data for % packing time
+<br>    *(C). profile data for % pressure
+<br>    *==============================================================*/
+<br>     2  100.00
+<br>     A    6
+<br>     B    0.00   20.00   40.00   60.00   80.00  100.00
+<br>     C   80.00   80.00   80.00   40.00   40.00   40.00
+<br>
+<b>
+<br>
+ # Material data information ......                
+</b>
+<br>
+<br>
+[Polymer_Material]
+
+[First_Kind]
+<br>   Group_No                   =  1
+<br>   Material_No                =  1
+<b>
+<br>   Material_Name              =  ABS
+<br>   Product_Name               =  Generic material / Generic ABS       | 2.300000e+02     5.000000e+01     9.000000e+01 | Type:0
+</b>
+<br>   Melt_Temp                  =  230.000000
+<br>   Mold_Temp                  =  50.000000
+<br>   Eject_Temp                 =  90.000000
+<br>   Glass_Temp                 =  1  1.00e+02
+<br>   Specific_Heat              =  1  2.40e+07
+<br>   Conductivity               =  1  1.80e+04
+<br>   Viscosity                  =  7  2.21e+13  3.78e+02  0.00e+00  2.88e+01  5.16e+01  7.24e+05  2.35e-01
+<br>   Density                    =  13  9.49e-01  6.20e-04  1.72e+09  4.17e-03  9.49e-01  2.64e-04  2.56e+09  3.72e-03  3.70e+02  2.94e-08  0.00e+00  0.00e+00  0.00e+00
+<br>   Shear_Modulus              =  -1
+<br>                                 -1
+<br>   Thermal_Volume_Expans_Coeff=  2  8.00e-05  8.00e-05
+<br>   Young_Modulus              =  2  2.25e+10  2.25e+10
+<br>   Poisson_Ratio              =  2  3.90e-01  3.90e-01
+<br>   Curing_Kinetics            =  -1
+<br>   NoFlow_Temp                =  -1
+<br>   Melt_Flow_Rate_Index       =  1  35.00
+<br>   Fiber                      =  -1
+<br>   Max_Shear_Rate             =  1  50000.00
+<br>   Max_Shear_Stress           =  1  3000000.00
+<br>   MaxMin_MeltMold_Temp       =  4  280.00  200.00  80.00  25.00
+<br>   Stress_Optic_Coeff         =  -1
+<br>   Leonov_VE_Data             =  -1
+<br>   Leonov_VE_WLF              =  -1
+<br>   Parallel_Shear_Modulus     =  1  8.09e+09
+<br>   Crystallization_Kinetics   =  -1
+<br>   Data_Source                =  1   SIMPOE   
+<br>   Juncture_Loss_Coeff        =  -1
+<br>
+<br>
+<b>
+<br>
+ # Geometric data information ......          
+</b>
+<br>
+<br>
+ # Thickness Correction=  0
+
+<br>   The # of tri-element with aspect ratio > 10 = 2
+<br>   The # of runner-element with aspect ratio < 10 = 0
+<br>
+<br>   No. of Nodes...................= 5035
+<br>   Input Gate No. ................= 4052
+<br>   No. of Elements................= 10070
+<br>       No. of Part Elements.......= 10070
+<br>       No. of Sprue/Runer Elements= 0
+<br>   Thickness  Factor..............= 1.00
+<br>   Coordinate Factor..............= 1.00
+<br>
+
+<br>   Part Max. Extent= 5.08  cm
+<br>
+<br>
+ # Shell model processing ......
+<br>    Model Processing 1 ....
+<br>    Model Processing 2 ....
+<br>    Model Processing 3 ....
+<br>    Model Processing 4 ....
+<br>    Model Processing Complete 
+<br>
+<br>   Total Volume..........=    4.87 cm3 (  0.16 Ounces)
+<br>       Part Volume.......=    4.87 cm3 (  0.16 Ounces)
+<br>       Sprue/Runer Volume=    0.00 cm3 (  0.00 Ounces)
+<br>
+<b>
+<br>
+ Filling stage results summary : 
+
+<br> ------------------------------------------------------------------------------------------------
+<br>    11007 : Machine direction clamping force =   0.06 Tonne (7.02e-02 Ton U.S)
+<br>   11003 : X direction clamping force    =   0.15 Tonne (  0.16 Ton U.S)
+<br>   11004 : Y direction clamping force    =   0.06 Tonne (  0.07 Ton U.S)
+<br>   11005 : Z direction clamping force    =   0.15 Tonne (  0.16 Ton U.S)
+<br>   25001 : Requiring injection pressure  =   4.08 Mpa (592.55 psi)
+<br>   25002 : Max. central temperature      = 230.30 oC  (446.55 oF)
+<br>   25003 : Max. average temperature      = 217.14 oC  (422.84 oF)
+<br>   25004 : Max. bulk    temperature      = 230.14 oC  (446.25 oF)
+<br>   25006 : Max. shear stress             =   0.20 Mpa ( 29.46 psi)
+<br>   25007 : Max. shear rate               = 326.45 1/sec
+<br>   25008 : Averaged perfect cooling time =  77.59 sec
+<br> ------------------------------------------------------------------------------------------------
+</b>
+<BR>&nbsp;
+<br>
+ ** CPU Time     **  : 75.38 sec
+<br> Report File - C:\Users\akarandikar\Documents\GitHub\screwdriver-ring\Ring Fluid Simulation\5750A14\5750A14.KD2
+<br>_______________________________________________________________________________
+
+<br>###  Shell FLOW-PACK V2023 Analysis has Completed   ###
+</font> 
+</HTML>
